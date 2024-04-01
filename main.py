@@ -1,4 +1,4 @@
-class Test():
+class Test:
   def __init__(self):
     self.name = "Test"
     self.age = 0
