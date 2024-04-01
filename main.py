@@ -3,7 +3,7 @@ class Test():
     self.name = "Test"
     self.age = 0
 
-  def sayHello():
+  def sayHello(self):
     print(f"Hello, my name is {self.name} and I'm {self.age} years old")
 
 test = Test()
