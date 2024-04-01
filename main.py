@@ -1,8 +1,7 @@
-print("Hola mundo desde GitHub!")
-print("------------------------------")
-for i in range(10):
-  print(i)
-print("------------------------------")
-def sayHello():
-  print("Esto es un print desde una función!!!")
-sayHello()
+class Test():
+  def __init__(self):
+    self.name = "Test"
+    self.age = 0
+
+  def sayHello():
+    print(f"Hello, my name is {self.name} and I'm {self.age} years old")
