@@ -5,3 +5,6 @@ class Test():
 
   def sayHello():
     print(f"Hello, my name is {self.name} and I'm {self.age} years old")
+
+test = Test()
+test.sayHello()
