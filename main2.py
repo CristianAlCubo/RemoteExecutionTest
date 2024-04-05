@@ -1,1 +1,2 @@
-print("Hola mundo desde otro archivo en GitHub!!!!")
+def holaDesdeOtroArchivo():
+  print("Hola mundo desde archivo 2....")
