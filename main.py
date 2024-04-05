@@ -1,4 +1,4 @@
-from main2 import holaDesdeOtroArchivo
+import main2
 
 print("Ejecutando archivo 1....")
-holaDesdeOtroArchivo()
+main2.holaDesdeOtroArchivo()
