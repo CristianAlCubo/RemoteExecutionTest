@@ -12,4 +12,4 @@ def readCSV():
 
 def holaDesdeMain3():
   print("Hola mundo desde main 3")
-  readCSV()
+  # readCSV()
