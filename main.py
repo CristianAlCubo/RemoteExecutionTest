@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import main2
 
 print("Ejecutando archivo 1....")
